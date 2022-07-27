@@ -1,0 +1,51 @@
+[
+  {
+    "desktop": 1,
+    "apps": [
+      { "className": "Alacritty", "follow": true, "state":"tiled" }
+    ]
+  },
+  {
+    "desktop": 2,
+    "apps": [
+      { "className": "firefox", "follow": true },
+      { "className": "Brave-browser", "follow": true },
+      { "className": "Microsoft-edge", "follow": true }
+    ]
+  },
+  {
+    "desktop": 3,
+    "apps": [{ "className": "Thunar", "follow": true }]
+  },
+
+  {
+    "desktop": 4,
+    "apps": [
+      { "className": "neovim", "follow": true },
+      { "className": "Code", "follow": true }
+    ]
+  },
+
+  {
+    "desktop": 5,
+    "apps": [
+      { "className": "leagueclientux.exe", "follow": false },
+      { "className": "leagueclient.exe", "follow": false },
+      { "className": "Zenity", "follow": false },
+      { "className": "zenity", "follow": false },
+      { "className": "Lutris", "follow": true }
+    ]
+  },
+  {
+    "desktop": 6,
+    "apps": [{ "className": "Spotify", "follow": true }]
+  },
+  {
+    "desktop": 7,
+    "apps": [
+      { "className": "Signal", "follow": true },
+      { "className": "discord", "follow": true },
+      { "className": "silos-whatsapp", "follow": true }
+    ]
+  }
+]
